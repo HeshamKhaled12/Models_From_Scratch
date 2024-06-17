@@ -1,1 +1,1 @@
-AlexNet and VGG16 models from scratch 
+ResNet ,AlexNet and VGG16 models from scratch 
